@@ -139,10 +139,4 @@ The hardware output was evaluated visually and statistically. Pixel-by-pixel com
 **Institute:** Vidyalankar Institute of Technology, Wadala, Mumbai, India
 
 
-## Future Work
 
-- Pixel-by-pixel comparison with a software Gaussian filter
-- Hardware cycle-counter implementation
-- Extended verification using assertions and code coverage
-- System-level block-design simulation
-- Support for interrupts and additional configurations
